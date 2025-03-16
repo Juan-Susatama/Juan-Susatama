@@ -59,6 +59,10 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
+[![](https://github-readme-stats.vercel.app/api?username=Juan-Susatama&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Juan-Susatama&theme=material-palenight)](https://github.com/Elanza-48)
+</div>
 ###
